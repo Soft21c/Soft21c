@@ -1,4 +1,5 @@
-- 👋 Hey, I’m Soft21c! I'm run Soft Games!
+- 👋 아주 평범한 학생 개발자입니다.
+- 홈페이지를 자주 개발해요~!
 
 <!---
 Soft21c/Soft21c is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
